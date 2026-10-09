@@ -1,6 +1,6 @@
 <div align="center">
 
-# ALPHA
+# null/prophet/dir
 
 ### PERSONAL PROJECTS · AI · AUTOMATION
 
@@ -27,7 +27,7 @@ This is a personal hobby space for projects I build, test, take apart, and learn
       <sub>Experiments · Architecture · Version control</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#17352F">
-      <h3>🔗 CRAFTFLOW</h3>
+      <h3>🔗 ALPHA CRAFTFLOW</h3>
       <strong>Workflow automation</strong>
       <p>Exploring n8n workflows and ways to automate repetitive tasks. Some ideas are prototypes or experiments rather than finished tools.</p>
       <sub>n8n · Integrations · Workflow testing</sub>
@@ -41,7 +41,7 @@ This is a personal hobby space for projects I build, test, take apart, and learn
       <sub>Content ideas · Interfaces · Iteration</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#202F45">
-      <h3>💬 SOFIA</h3>
+      <h3>💬 ALPHA SOFIA</h3>
       <strong>Chatbot &amp; conversational AI</strong>
       <p>A separate set of experiments involving a Telegram chatbot, product concepts, and ideas around conversational memory and personality.</p>
       <sub>Telegram · Chatbots · Experiments</sub>
@@ -54,7 +54,7 @@ This is a personal hobby space for projects I build, test, take apart, and learn
 | Project | What I'm exploring |
 |---|---|
 | **ALPHA Agent Orchestrator** | Coordinating AI agents and breaking larger tasks into smaller steps |
-| **Hamburg Mobility** | Following a project roadmap and checking whether technical claims match verifiable results |
+| **ALPHA Hamburg Mobility** | Following a project roadmap and checking whether technical claims match verifiable results |
 
 ---
 
@@ -86,7 +86,7 @@ I add details as I can verify them. Some repositories are private, so this page 
 
 <div align="center">
 
-**ALPHA**  
+**null/prophet/dir**  
 *Personal projects. Curious experiments. Learning by doing.*
 
 </div>
