@@ -2,97 +2,91 @@
 
 # ALPHA
 
-### AI ENGINEERING · INTELLIGENT AUTOMATION
+### PERSONAL PROJECTS · AI · AUTOMATION
 
-**Practical development. Structured experimentation. Verifiable progress.**
+**Learning by building, experimenting, and figuring things out.**
 
-[![AI Engineering](https://img.shields.io/badge/AI-Engineering-8B5CF6?style=for-the-badge)](#technical-focus)
-[![Automation](https://img.shields.io/badge/Workflow-Automation-10B981?style=for-the-badge)](#technical-focus)
-[![Testing](https://img.shields.io/badge/Testing-Validation-FBBF24?style=for-the-badge)](#engineering-approach)
+[![AI](https://img.shields.io/badge/AI-Experiments-8B5CF6?style=for-the-badge)](#topics-i-explore)
+[![Automation](https://img.shields.io/badge/Workflow-Automation-10B981?style=for-the-badge)](#topics-i-explore)
+[![Testing](https://img.shields.io/badge/Testing-Learning-64748B?style=for-the-badge)](#how-i-work)
 
 </div>
 
 ---
 
-## Project Portfolio
+## Things I'm Exploring
+
+This is a personal hobby space for projects I build, test, take apart, and learn from. The repositories live in a GitHub organization simply to keep the projects together. **This is not a company or a commercial portfolio.**
 
 <table>
   <tr>
     <td width="50%" valign="top" bgcolor="#20233A">
       <h3>🧠 ALPHA ENGINE</h3>
-      <strong>Intelligence &amp; Decision Systems</strong>
-      <p>Exploring system architecture and decision logic as a separate component within the ALPHA ecosystem.</p>
-      <sub>Architecture · System boundaries · Version control</sub>
+      <strong>AI logic &amp; system ideas</strong>
+      <p>An ongoing personal project exploring decision logic, system architecture, and how different components can be kept separate.</p>
+      <sub>Experiments · Architecture · Version control</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#17352F">
       <h3>🔗 CRAFTFLOW</h3>
-      <strong>AI &amp; Workflow Automation</strong>
-      <p>Designing practical workflow automation concepts for small businesses, with a focus on reusable n8n workflows.</p>
-      <sub>n8n · Requirements · Workflow testing</sub>
+      <strong>Workflow automation</strong>
+      <p>Exploring n8n workflows and ways to automate repetitive tasks. Some ideas are prototypes or experiments rather than finished tools.</p>
+      <sub>n8n · Integrations · Workflow testing</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#3A2920">
       <h3>🎬 ALPHA CREATOR</h3>
-      <strong>Content Intelligence</strong>
-      <p>AI-assisted content intelligence, trend discovery, content evaluation, and generation concepts.</p>
-      <sub>Content systems · UI/UX · Iterative development</sub>
+      <strong>Content &amp; AI experiments</strong>
+      <p>A project exploring trend discovery, content evaluation, AI-assisted generation, and the software around these ideas.</p>
+      <sub>Content ideas · Interfaces · Iteration</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#202F45">
       <h3>💬 SOFIA</h3>
-      <strong>Conversational AI</strong>
-      <p>A separate product environment exploring conversational AI, chatbot experiences, and experimental memory concepts.</p>
-      <sub>Telegram bot · Product components · Experiments</sub>
+      <strong>Chatbot &amp; conversational AI</strong>
+      <p>A separate set of experiments involving a Telegram chatbot, product concepts, and ideas around conversational memory and personality.</p>
+      <sub>Telegram · Chatbots · Experiments</sub>
     </td>
   </tr>
 </table>
 
-### More projects
+### Other projects
 
-| Project | Focus |
+| Project | What I'm exploring |
 |---|---|
-| **ALPHA Agent Orchestrator** | Multi-agent coordination, task orchestration, and structured execution concepts |
-| **Hamburg Mobility** | Roadmap-based software development, technical review, and evidence-based validation |
+| **ALPHA Agent Orchestrator** | Coordinating AI agents and breaking larger tasks into smaller steps |
+| **Hamburg Mobility** | Following a project roadmap and checking whether technical claims match verifiable results |
 
 ---
 
-## About This Portfolio
+## Topics I Explore
 
-This portfolio documents practical work in AI-assisted development, intelligent automation, agent orchestration, system architecture, and technical validation.
+- **AI and language models:** AI-assisted building, agent concepts, and conversational systems
+- **Automation:** n8n, APIs, webhooks, and connecting different tools
+- **Software projects:** system structure, interfaces, version control, and iterative changes
+- **Testing:** checking behavior, investigating errors, and making results reproducible
+- **Tools:** GitHub, Render, and other tools encountered while building these projects
 
-My approach combines structured problem-solving with AI-assisted and no-code/low-code development workflows. I focus on translating requirements into concrete technical approaches, evaluating system behavior, and documenting progress and limitations.
+The technologies and depth of implementation differ from project to project. I'm learning as I go, and I use AI tools as part of that process.
 
-## Technical Focus
+## How I Work
 
-- **AI and LLMs:** AI-assisted development, agent-based concepts, conversational systems
-- **Workflow automation:** n8n, workflow design, APIs, webhooks, and integration concepts
-- **System development:** Architecture, component boundaries, version management, and iterative implementation
-- **Testing and quality:** Test planning, validation, error analysis, and reproducibility
-- **Product development:** Requirements analysis, user interfaces, practical use cases, and product concepts
-- **Development tooling:** GitHub, Render, and related development workflows
+- Try an idea and see what actually works.
+- Keep experiments separate from versions intended to remain stable.
+- Check results instead of assuming that something works because a description says so.
+- Record useful findings, limitations, and mistakes.
+- Improve projects in small, understandable steps.
 
-*The specific technologies and implementation depth vary by project.*
+## A Note About Project Status
 
-## Engineering Approach
+These are personal projects at different stages: some are experiments, some have working parts, and others are still being explored. A repository name or project description does not automatically mean that a system is complete or production-ready.
 
-- **Clear system boundaries** — keep components with different responsibilities separate.
-- **Evidence-based progress** — distinguish implemented functionality from plans and assumptions.
-- **Structured testing** — validate behavior instead of relying on claims alone.
-- **Controlled changes** — preserve defined baselines and isolate experimental work.
-- **Practical outcomes** — connect technical work to real use cases.
-- **Continuous learning** — document findings, limitations, and improvements.
-
-## Project Status & Transparency
-
-Projects are at different stages of development. Not every component has been independently verified or released publicly. Status descriptions will be expanded as source-code reviews, test evidence, architecture documentation, and demonstrable results become available.
-
-Private repositories and sensitive implementation details are intentionally kept separate from this public overview.
+I add details as I can verify them. Some repositories are private, so this page only gives a general overview.
 
 ---
 
 <div align="center">
 
 **ALPHA**  
-*Practical development. Structured experimentation. Verifiable progress.*
+*Personal projects. Curious experiments. Learning by doing.*
 
 </div>
